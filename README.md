@@ -1,4 +1,4 @@
-# React projects
+# React Projects
 
 These are projects I built with React as a core technology. Some projects also utilize Firebase as a back-end service, database, and authentication system.
 
