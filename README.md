@@ -8,4 +8,4 @@ This project is designed for desktop version so users can take adventage of both
 
 > This is a part of Build Web Apps with React & Firebase by Shaun Pelling (The Net Ninja) on Udemy.
 
-Deployed on: https://mymoney-103dd.web.app/
+Deployed with Firebase Hositing on: https://mymoney-103dd.web.app/
